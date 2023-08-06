@@ -49,4 +49,3 @@ echo "total orders are $total_orders"
 #using local variables
 echo " my user name of the machine is $USER "
 echo " my working directory is $PWD "
-echo " my hostname is $HOSTNAME
